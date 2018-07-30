@@ -20,4 +20,5 @@ int main()
     int test = 3;
     printFun(test);
     printFun(test-1);
+    printFun(test);
 }
